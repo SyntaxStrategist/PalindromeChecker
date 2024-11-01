@@ -18,7 +18,7 @@ The **Palindrome Checker** is a simple web application that allows users to chec
   - Single letters (e.g., "A")
   - Words with spaces (e.g., "race car")
   - Phrases with punctuation (e.g., "A man, a plan, a canal. Panama")
-  
+
 ## How to Use
 1. Clone this repository to your local machine.
 2. Open `index.html` in your web browser.
@@ -38,3 +38,11 @@ No installation is required. Simply clone this repository and open `index.html` 
 git clone https://github.com/SyntaxStrategist/palindrome-checker.git
 cd palindrome-checker
 open index.html
+```
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+Feel free to reach out for feedback or collaboration opportunities!
+
